@@ -21,3 +21,21 @@ li {
     height: auto;
     width: 500px;
 }
+
+.list-overview-recipes li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    list-style: none;
+}
+
+button {
+    border-color: black;
+    background-color: rgb(255, 237, 72);
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: rgb(87, 250, 41);
+}
