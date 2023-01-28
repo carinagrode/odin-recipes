@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+h1,
+h2 {
+    font-weight: bold;
+}
+
+p,
+li {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.image-home {
+    height: auto;
+    width: 200px;
+}
+
+.image-recipe {
+    height: auto;
+    width: 500px;
+}
