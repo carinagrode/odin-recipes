@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 body {
-    font-family: Anton, Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
     }
 
 h1,
 h2 {
+    font-family: Anton, Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     }
 
