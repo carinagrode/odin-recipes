@@ -1,6 +1,6 @@
 # Rezepte
 
-A simple website with 3 recipes. In German.
+A simple, brutalist website with 3 recipes. In German.
 
 [See it in action](https://carinagrode.github.io/odin-recipes)
 
